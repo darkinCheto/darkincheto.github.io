@@ -1,5 +1,4 @@
 google.com, pub-2511034167540117, DIRECT, f08c47fec0942fa0
-vungle.com, 6acd140dd97cf7c44f3bee94, DIRECT, c107d686becd2d77
 unity.com, 5329806, DIRECT, 96cabb5fbdde37a7
 adwmg.com, 159512, RESELLER, c9688a22012618e7
 appads.in, 106246, RESELLER
